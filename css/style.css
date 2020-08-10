@@ -125,7 +125,7 @@ h1,h2,h3{
     height: 400px;
 }
 #home-info .info-img{
-    background: url('../img/Fashion6.jpg')no-repeat;
+    background: url('../img/Fashion6.jpg') no-repeat center center/cover;
     min-height: 100%;
     width: 50%;
     float: left;
