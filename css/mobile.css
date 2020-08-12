@@ -1,5 +1,9 @@
+.l-heading{
+    font-size: 30px;
+}
+
 #navbar h1{
-    float: left;
+    float: none;
     text-align: center;
 }
 #navbar ul, #navbar ul li{
@@ -43,11 +47,12 @@
     text-align: center;
 }
 /*Feedback*/
-#Feedback{
+#feedback{
     height: 700px;
 }
-#Feedback .guest{
+#feedback .guest{
     height: 100%;
+    text-align: justify;
 }
 
 #contact-info .box{
